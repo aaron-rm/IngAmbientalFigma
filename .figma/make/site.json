@@ -1,0 +1,10 @@
+{
+  "description": "Access real-time flood alerts and an interactive map of Panama, providing vital information on river conditions for residents and emergency services.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
